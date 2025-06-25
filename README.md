@@ -9,6 +9,10 @@
 - Restart Windows Explorer from the app to apply changes immediately.
 - Simple, modern PyQt6 interface.
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## Requirements
 
 - Windows OS
